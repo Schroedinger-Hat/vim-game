@@ -1,3 +1,3 @@
 <template>
-  <SHWelcome />
+  <main class="bg-background" />
 </template>
